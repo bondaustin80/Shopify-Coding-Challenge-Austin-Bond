@@ -1,0 +1,27 @@
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    border-style: solid;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: gray;
+}
